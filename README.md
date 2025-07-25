@@ -95,7 +95,7 @@ uber-fares-project/
 
 ## 5. Analysis and Results (Your Part)
 
-*(**Instructions:** Fill this section with the key insights you discovered from your analysis in both Python and Power BI.)*
+
 
 ### Key Findings:
 - **Fare Patterns:**
@@ -112,19 +112,21 @@ uber-fares-project/
 
 ## 6. Power BI Dashboard
 
-*(**Instructions:** Add screenshots of your Power BI dashboard here. You can drag and drop images directly into this README file on GitHub.)*
+
 
 **Screenshot 1: Main Dashboard Overview**
-![Main Dashboard]()
+<img width="1365" height="767" alt="Screenshot 2025-07-21 132651" src="https://github.com/user-attachments/assets/a6698a32-bec8-43c7-9f0b-25ce729b99e0" />
+
 
 **Screenshot 2: Fare Analysis View**
-![Fare Analysis]()
+<img width="771" height="436" alt="Screenshot 2025-07-23 164348" src="https://github.com/user-attachments/assets/5483ee3f-7664-4e56-8a7d-0f59976235e7" />
+<img width="1365" height="767" alt="Screenshot 2025-07-25 092736" src="https://github.com/user-attachments/assets/92cbecff-acb3-4cbd-9c3c-4bbc6f3101fc" />
+
 
 ---
 
 ## 7. Conclusion and Recommendations
 
-*(**Instructions:** Summarize your main findings and provide actionable recommendations based on your data.)*
 
 ### Conclusion:
 - The analysis revealed that **peak hours (7–9 AM and 4–7 PM)** consistently see higher ride volumes and increased average fares, indicating strong demand during commuting times.
