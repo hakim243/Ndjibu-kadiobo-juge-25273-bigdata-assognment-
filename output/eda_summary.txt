@@ -1,0 +1,30 @@
+--- Descriptive Statistics ---
+          Unnamed: 0                          key    fare_amount  ... dropoff_longitude  dropoff_latitude  passenger_count
+count   1.999990e+05                       199999  199999.000000  ...     199999.000000     199999.000000    199999.000000
+unique           NaN                       199999            NaN  ...               NaN               NaN              NaN
+top              NaN  2015-05-07 19:52:06.0000003            NaN  ...               NaN               NaN              NaN
+freq             NaN                            1            NaN  ...               NaN               NaN              NaN
+mean    2.771248e+07                          NaN      11.359892  ...        -72.525292         39.923890         1.684543
+std     1.601386e+07                          NaN       9.901760  ...         13.117408          6.794829         1.385995
+min     1.000000e+00                          NaN     -52.000000  ...      -3356.666300       -881.985513         0.000000
+25%     1.382534e+07                          NaN       6.000000  ...        -73.991407         40.733823         1.000000
+50%     2.774524e+07                          NaN       8.500000  ...        -73.980093         40.753042         1.000000
+75%     4.155535e+07                          NaN      12.500000  ...        -73.963658         40.768001         2.000000
+max     5.542357e+07                          NaN     499.000000  ...       1153.572603        872.697628       208.000000
+
+[11 rows x 9 columns]
+
+--- Mode for Each Column ---
+Unnamed: 0: 1
+key: 2009-01-01 01:15:22.0000006
+fare_amount: 6.5
+pickup_datetime: 2009-02-12 12:46:00 UTC
+pickup_longitude: 0.0
+pickup_latitude: 0.0
+dropoff_longitude: 0.0
+dropoff_latitude: 0.0
+passenger_count: 1
+
+--- Outlier Detection for fare_amount ---
+fare_amount IQR: 6.5, Lower Bound: -3.75, Upper Bound: 22.25
+Number of outliers: 17166
