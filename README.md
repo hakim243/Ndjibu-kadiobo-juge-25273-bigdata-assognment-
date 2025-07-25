@@ -93,20 +93,25 @@ uber-fares-project/
 
 ---
 
-## 5. Analysis and Results (Your Part)
+## 5. Analysis and Results 
 
 
 
 ### Key Findings:
+
 - **Fare Patterns:**
-    - *Describe the typical fare amount. What are the most common fare ranges?*
-    - *How does the time of day (peak vs. off-peak) affect fare prices?*
+    - The fare distribution is highly right-skewed, with most fares clustered at the lower end (under $20), and only a few rides with very high fares.
+    - The average fare by hour shows a clear pattern: fares are lowest in the early morning hours, rise steadily through the day, and peak in the late afternoon and evening (around 16:00–20:00), indicating higher demand and/or longer trips during these hours.
+
 - **Ride Patterns:**
-    - *What are the busiest hours, days of the week, and months for Uber rides?*
-    - *Are there noticeable differences in ride volume between weekdays and weekends?*
+    - The busiest days for Uber rides are Friday and Tuesday, with Monday and Sunday showing slightly lower ride volumes. Overall, ride activity is relatively consistent across the week, but Friday stands out as the peak.
+    - The rides by hour (as seen in the bar chart) show that most rides occur between 8:00 and 20:00, with a noticeable dip in the early morning hours.
+    - There is a significant difference in total fare amount between peak and off-peak hours, with peak hours generating much higher total fares.
+
 - **Correlations:**
-    - *What is the relationship between distance and fare amount? Is it linear?*
-    - *Are there any surprising seasonal trends?*
+    - The map visualization shows that rides are distributed across multiple continents, but the highest fare concentrations are in specific regions (likely major cities).
+    - While the scatter plot of fare amount by day of week is not fully clear, the overall trend suggests that fare amounts do not vary dramatically by day, but the volume of rides does.
+    - No direct seasonal trend is visible in the provided visuals, but the hour and day-of-week patterns are strong.
 
 ---
 
